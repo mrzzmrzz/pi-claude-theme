@@ -41,9 +41,9 @@
 		"customMessageBg": "#e6f5fa",
 		"customMessageText": "",
 		"customMessageLabel": "periwinkle",
-		"toolPendingBg": "#efeff5",
-		"toolSuccessBg": "#eaf3ec",
-		"toolErrorBg": "#f7eaec",
+		"toolPendingBg": "#f5f5f5",
+		"toolSuccessBg": "#f5f5f5",
+		"toolErrorBg": "#f9efef",
 		"toolTitle": "",
 		"toolOutput": "gray",
 
