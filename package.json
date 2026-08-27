@@ -1,0 +1,10 @@
+{
+	"name": "pi-claude-theme",
+	"version": "0.1.0",
+	"description": "Claude Code's look for the pi TUI — claude-dark and claude-light themes",
+	"keywords": ["pi-package", "pi-theme", "theme", "claude", "claude-code"],
+	"license": "MIT",
+	"pi": {
+		"themes": ["./themes"]
+	}
+}
