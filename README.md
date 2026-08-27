@@ -12,14 +12,16 @@ Text stays on your terminal's default color, as both tools intend.
 
 ## Install
 
-```bash
-pi install git:github.com/mrzzmrzz/pi-claude-theme
-```
-
-Or from a local checkout:
+From a local checkout:
 
 ```bash
 pi install /path/to/pi-claude-theme
+```
+
+Or, once published to GitHub:
+
+```bash
+pi install git:github.com/mrzzmrzz/pi-claude-theme
 ```
 
 Then pick `claude-dark` or `claude-light` in `/settings`, or set it directly:
