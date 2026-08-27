@@ -3,7 +3,6 @@
 	"name": "claude-light",
 	"vars": {
 		"clay": "#c15f3c",
-		"claySoft": "#d77757",
 		"periwinkle": "#5769f7",
 		"pink": "#ff0087",
 		"teal": "#006666",
@@ -32,7 +31,7 @@
 		"text": "",
 		"thinkingText": "gray",
 
-		"selectedBg": "#e6e8f8",
+		"selectedBg": "#e8e8e8",
 		"scrollbarThumb": "lightGray",
 		"searchMatchBg": "#f5e0d5",
 		"searchMatchText": "",
@@ -47,16 +46,16 @@
 		"toolTitle": "",
 		"toolOutput": "gray",
 
-		"mdHeading": "clay",
+		"mdHeading": "",
 		"mdLink": "periwinkle",
 		"mdLinkUrl": "dimGray",
-		"mdCode": "teal",
+		"mdCode": "periwinkle",
 		"mdCodeBlock": "",
 		"mdCodeBlockBorder": "lightGray",
 		"mdQuote": "gray",
 		"mdQuoteBorder": "lightGray",
 		"mdHr": "lightGray",
-		"mdListBullet": "clay",
+		"mdListBullet": "",
 
 		"toolDiffAdded": "diffGreen",
 		"toolDiffRemoved": "diffRed",

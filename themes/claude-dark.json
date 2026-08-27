@@ -3,7 +3,6 @@
 	"name": "claude-dark",
 	"vars": {
 		"clay": "#d77757",
-		"claySoft": "#eb9f7f",
 		"periwinkle": "#b1b9f9",
 		"pink": "#fd5db1",
 		"teal": "#48968c",
@@ -32,7 +31,7 @@
 		"text": "",
 		"thinkingText": "gray",
 
-		"selectedBg": "#3a3a44",
+		"selectedBg": "#3f3f3f",
 		"scrollbarThumb": "darkGray",
 		"searchMatchBg": "#50403a",
 		"searchMatchText": "",
@@ -47,16 +46,16 @@
 		"toolTitle": "",
 		"toolOutput": "gray",
 
-		"mdHeading": "clay",
+		"mdHeading": "",
 		"mdLink": "periwinkle",
 		"mdLinkUrl": "dimGray",
-		"mdCode": "claySoft",
+		"mdCode": "periwinkle",
 		"mdCodeBlock": "",
 		"mdCodeBlockBorder": "darkGray",
 		"mdQuote": "gray",
 		"mdQuoteBorder": "darkGray",
 		"mdHr": "darkGray",
-		"mdListBullet": "clay",
+		"mdListBullet": "",
 
 		"toolDiffAdded": "diffGreen",
 		"toolDiffRemoved": "diffRed",
