@@ -2,12 +2,12 @@
 
 Claude Code's look for the [pi](https://pi.dev) TUI. Two themes, faithful to the original palette:
 
-- **claude-dark** — clay accent `#d77757`, periwinkle links, the signature pink bash mode
+- **claude-dark** — clay accent `#d77757`, periwinkle links, a neutral bash command frame
 - **claude-light** — the same identity, tuned for light terminals
 
 The palette is taken from Claude Code's built-in Dark/Light modes: clay for accents and headings,
 periwinkle (`permission`/`suggestion`) for links and labels, Claude's own success/error/warning
-greens and reds, its exact user-message and memory backgrounds, and `bashBorder` pink for bash mode.
+greens and reds, its exact user-message and memory backgrounds, and neutral command framing for Bash mode.
 Text stays on your terminal's default color, as both tools intend.
 
 ## Install

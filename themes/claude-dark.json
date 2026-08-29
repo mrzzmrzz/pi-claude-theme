@@ -16,7 +16,7 @@
 		"darkGray": "#505050",
 		"border": "#888888",
 		"diffGreen": "#38a660",
-		"diffRed": "#7a2936"
+		"diffRed": "#b3596b"
 	},
 	"colors": {
 		"accent": "clay",
@@ -79,7 +79,7 @@
 		"thinkingXhigh": "border",
 		"thinkingMax": "border",
 
-		"bashMode": "pink"
+		"bashMode": "border"
 	},
 	"export": {
 		"pageBg": "#1b1b1b",
