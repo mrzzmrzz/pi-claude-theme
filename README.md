@@ -44,7 +44,7 @@ pi --theme ./themes/claude-light.json --theme ./themes/claude-dark.json --use-th
 
 ## Notes
 
-- Thinking-level borders ramp from gray through teal, blue, and periwinkle up to clay — max thinking is full Claude.
+- The input border stays Claude Code's neutral prompt gray (`#999999` in light mode, `#888888` in dark mode) across all thinking levels; the current level remains visible in the status area.
 - Both theme files hot-reload while active, so edits show up immediately.
 
 ## License

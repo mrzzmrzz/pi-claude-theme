@@ -2,7 +2,7 @@
 	"$schema": "https://raw.githubusercontent.com/earendil-works/pi/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
 	"name": "claude-light",
 	"vars": {
-		"clay": "#c15f3c",
+		"clay": "#d77757",
 		"periwinkle": "#5769f7",
 		"pink": "#ff0087",
 		"teal": "#006666",
@@ -71,13 +71,13 @@
 		"syntaxOperator": "gray",
 		"syntaxPunctuation": "gray",
 
-		"thinkingOff": "lightGray",
+		"thinkingOff": "border",
 		"thinkingMinimal": "border",
-		"thinkingLow": "teal",
-		"thinkingMedium": "blue",
-		"thinkingHigh": "periwinkle",
-		"thinkingXhigh": "violet",
-		"thinkingMax": "clay",
+		"thinkingLow": "border",
+		"thinkingMedium": "border",
+		"thinkingHigh": "border",
+		"thinkingXhigh": "border",
+		"thinkingMax": "border",
 
 		"bashMode": "pink"
 	},

@@ -71,13 +71,13 @@
 		"syntaxOperator": "gray",
 		"syntaxPunctuation": "gray",
 
-		"thinkingOff": "darkGray",
+		"thinkingOff": "border",
 		"thinkingMinimal": "border",
-		"thinkingLow": "teal",
-		"thinkingMedium": "blue",
-		"thinkingHigh": "periwinkle",
-		"thinkingXhigh": "violet",
-		"thinkingMax": "clay",
+		"thinkingLow": "border",
+		"thinkingMedium": "border",
+		"thinkingHigh": "border",
+		"thinkingXhigh": "border",
+		"thinkingMax": "border",
 
 		"bashMode": "pink"
 	},
